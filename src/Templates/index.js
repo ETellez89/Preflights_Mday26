@@ -7,8 +7,8 @@
 //    3. Añade una entrada en ALL_SENDS
 // ─────────────────────────────────────────────────────────────
 
-import { EMAIL_TEMPLATES as SEND1, LANGUAGE_OPTIONS } from './send1.js';
-import { EMAIL_TEMPLATES as SEND2 } from './send2.js';
+import { EMAIL_TEMPLATES as SEND1, LANGUAGE_OPTIONS } from './Send1.js';
+import { EMAIL_TEMPLATES as SEND2 } from './Send2.js';
 // import { EMAIL_TEMPLATES as SEND3 } from './send3.js';  ← descomenta cuando tengas send3
 
 export { LANGUAGE_OPTIONS };
