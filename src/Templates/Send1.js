@@ -4196,3 +4196,8 @@ Best,
 </body>
 </html>`,
 };
+
+export const LANGUAGE_OPTIONS = Object.keys(EMAIL_TEMPLATES).map(lang => ({
+  value: lang,
+  label: lang.replace('_', ' ').toUpperCase()
+}));
