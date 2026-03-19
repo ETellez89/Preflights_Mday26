@@ -1,4 +1,4 @@
-// src/templates/index.js
+
 // ─────────────────────────────────────────────────────────────
 //  REGISTRO CENTRAL DE SENDS
 //  Para añadir un nuevo send:
