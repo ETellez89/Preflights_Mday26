@@ -14,7 +14,7 @@ import { EMAIL_TEMPLATES as SEND2 } from './Send2.js';
 export { LANGUAGE_OPTIONS };
 
 export const ALL_SENDS = [
-  { key: 'send1', label: 'Email Send 1', templates: SEND1 },
-  { key: 'send2', label: 'Email Send 2', templates: SEND2 },
+  { key: 'Send1', label: 'Email Send 1', templates: SEND1 },
+  { key: 'Send2', label: 'Email Send 2', templates: SEND2 },
   // { key: 'send3', label: 'Email Send 3', templates: SEND3 },  ← descomenta cuando tengas send3
 ];
