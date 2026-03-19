@@ -15,5 +15,5 @@ export { LANGUAGE_OPTIONS };
 export const ALL_SENDS = [
   { key: 'Send1', label: 'Email Send 1', templates: SEND1 },
   { key: 'Send2', label: 'Email Send 2', templates: SEND2 },
-  // { key: 'send3', label: 'Email Send 3', templates: SEND3 },  ← descomenta cuando tengas send3
+  { key: 'send3', label: 'Email Send 3', templates: SEND3 },
 ];
