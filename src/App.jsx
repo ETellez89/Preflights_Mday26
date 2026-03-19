@@ -1,10 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { ALL_SENDS, LANGUAGE_OPTIONS } from "./Templates/index.js";
 
-// ═══════════════════════════════════════════════════════════════════════════════
-//  🎛 VARIABLE DEFINITIONS
-// ═══════════════════════════════════════════════════════════════════════════════
-
 const VARIABLE_DEFS = [
   {
     key: "CATEGORY_V3",
