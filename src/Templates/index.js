@@ -9,8 +9,7 @@
 
 import { EMAIL_TEMPLATES as SEND1, LANGUAGE_OPTIONS } from './Send1.js';
 import { EMAIL_TEMPLATES as SEND2 } from './Send2.js';
-// import { EMAIL_TEMPLATES as SEND3 } from './send3.js';  ← descomenta cuando tengas send3
-
+import { EMAIL_TEMPLATES as SEND3 } from './Send3.js';
 export { LANGUAGE_OPTIONS };
 
 export const ALL_SENDS = [
