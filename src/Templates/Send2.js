@@ -1,0 +1,15 @@
+export const EMAIL_TEMPLATES = {
+  AE_en: ``,
+  AU_en: ``,
+  BE_fr: ``,
+  BE_nl: ``,
+  DE_de: ``,
+  ES_es: ``,
+  FR_fr: ``,
+  IE_en: ``,
+  IT_it: ``,
+  NA_en: ``,
+  NL_nl: ``,
+  PL_pl: ``,
+  UK_en: ``,
+};
