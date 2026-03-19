@@ -1,4 +1,4 @@
-export const EMAIL_TEMPLATES = {
+export const EMAIL_TEMPLATES = { 
   AE_en: ``,
   AU_en: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html style="padding:0;margin:0;opacity:1;" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
